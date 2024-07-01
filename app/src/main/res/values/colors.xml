@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0C0C0C</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error_red">#FF0000</color>
+    <color name="default_text">#000000</color>
+    <color name="default_stroke">#000000</color> <!-- Replace with your default stroke color -->
+    <color name="MediclabApp">#FF9800</color>
+
+</resources>
